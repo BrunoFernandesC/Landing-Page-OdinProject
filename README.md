@@ -8,8 +8,6 @@ https://htmlpreview.github.io/?https://github.com/BrunoFernandesC/Landing-Page-O
 
 ### Layout disponiblizado :
 
-<img src="Layout.png" height="900">
+<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png" height="1000">
 
-
-
-<img src="colors_and_stuff.png" height="500">
+<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png" height="600" >
