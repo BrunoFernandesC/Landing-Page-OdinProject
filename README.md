@@ -2,9 +2,7 @@
 
 Projeto de desenvolvimento de uma Landing Page do curso Odin Project.
 
-## Resultado 
-
-https://htmlpreview.github.io/?https://github.com/BrunoFernandesC/Landing-Page-OdinProject/blob/main/index.html
+### Clique [*aqui*](https://htmlpreview.github.io/?https://github.com/BrunoFernandesC/Landing-Page-OdinProject/blob/main/index.html) para acessar o site
 
 ### Layout disponiblizado :
 
